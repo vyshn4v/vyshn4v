@@ -1,61 +1,156 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/vyshnavpc">
-  <img alt="Static Badge" src="https://img.shields.io/badge/github-blue?style=for-the-badge&logo=github&logoColor=white">
-  </a>
+<div align="center">
+
+# 👋 Hi, I'm Vyshnav P C
+
+### `Node.js / JavaScript Developer` · `Backend Engineer` · `Cloud Native Builder`
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Building+Scalable+REST+APIs+with+Node.js;Kubernetes+%7C+Docker+%7C+AWS+%7C+DevOps;Secure+Auth+Systems+%7C+Backend+Architect;Open+to+Work+%F0%9F%9F%A2)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-vyshnavpc.com-00ff88?style=flat-square)](https://vyshnavpc.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vyshnav%20PC-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyshnav-pc-5567ba242/)
+[![GitHub](https://img.shields.io/badge/GitHub-vyshn4v-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vyshn4v)
+[![Email](https://img.shields.io/badge/Email-vyshnavpcnaravoor@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vyshnavpcnaravoor@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B91%208086064478-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/8086064478)
+
 </div>
-  <img src="https://komarev.com/ghpvc/?username=vyshn4ve&style=flat-square&color=blue" alt=""/>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+---
+
+## `~/` cat profile.json
+
+```json
+{
+  "name": "Vyshnav P C",
+  "role": "Node.js / JavaScript Developer",
+  "company": "Neutrinos  →  SDE 1",
+  "focus": ["REST APIs", "DevOps", "Cloud Native"],
+  "location": "Kannur, Kerala, India",
+  "status": "open_to_work  ✅",
+  "email": "vyshnavpcnaravoor@gmail.com"
+}
+```
+
+---
+
+## 👨‍💻 About Me
+
+> Backend-focused software engineer from **Kannur, Kerala** with **~2 years of experience**
+> building scalable and reliable web applications using modern JavaScript technologies.
+
+- 🔧 Specialize in **Node.js**, **REST APIs**, and **secure authentication systems**
+- ☁️ Hands-on **Kubernetes**, **Docker**, **AWS** and full **CI/CD pipeline** experience in production
+- 🌐 Passionate about **cloud-native applications**, **distributed systems** and **system reliability**
+- 🏆 Won **Team Player Award** & **Beyond the Call of Duty Award** at Neutrinos
+- 🎨 Background in **Graphic Design** — I think visually and build technically
+
+---
+
+## 💼 Work Experience
+
+### 🏢 Neutrinos &nbsp;·&nbsp; SDE 1 / Junior Software Engineer
+
+**`March 2024 → March 2026`** &nbsp;·&nbsp; Presales Engineering Environment
+
+- 🔹 Built and maintained **backend services & REST APIs** with Node.js for insurance workflow applications
+- 🔹 Contributed to **policy lifecycle automation** — underwriting and policy processing workflows
+- 🔹 Implemented **secure authentication flows** and API integrations between frontend and backend
+- 🔹 Resolved **production issues** across distributed systems through cross-functional collaboration
+- 🔹 Managed **application deployment**, release cycles, and environment configuration
+- 🔹 Optimized **API performance** and debugged complex issues in live production systems
+
+#### 🏆 Awards
+
+| Award                      | Reason                                                               |
+| -------------------------- | -------------------------------------------------------------------- |
+| 🏆 Team Player Award       | Strong collaboration & consistent delivery on project goals          |
+| ⭐ Beyond the Call of Duty | Took extra responsibilities & resolved critical production incidents |
+
+---
+
+## 🛠️ Tech Stack
+
+### ⚙️ Backend & Languages
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🔧 Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 🎓 Education
+
+| 🎓  | Qualification                       | Institution                  | Period              |
+| --- | ----------------------------------- | ---------------------------- | ------------------- |
+| 🖥️  | MERN Stack Development              | Packapeer Academy            | Dec 2022 – Nov 2023 |
+| 🎨  | Diploma in Graphic Design           | Sree Sankaracharya Institute | Dec 2018 – Nov 2020 |
+| ⚡  | Electrical & Electronics Technology | GVHSS Kadirur                | 2017 – 2018         |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=vyshn4v&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff88&icon_color=00ff88&text_color=ffffff&count_private=true&include_all_commits=true" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vyshn4v&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=00ff88&text_color=ffffff" />
+
 </div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=vyshn4v&theme=dark&hide_border=true&background=0d1117&ring=00ff88&fire=00ff88&currStreakLabel=00ff88)
+
 </div>
 
-### Github accounts
-<a href="https://github.com/vyshnavpc">
-  <img src="https://contrib.rocks/image?repo=vyshn4v/passwordGenerator" />
-</a>
+---
 
-### :man_technologist: About Me 
-@vyshnavpc
-- 💻 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate on MERN Stack projects
-- ⚡ In my free time, I love exploring the latest tech articles and staying updated with emerging technologies and best practices.
-- 💬 Ask me about tech
-- 📫 How to reach me: vyshnavpcnaravoor@gmail.com
+## 📈 Contribution Graph
 
-### :hammer_and_wrench: Languages and Tools :
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+<div align="center">
 
-### :fire: My Stats :
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vyshn4v&bg_color=0d1117&color=00ff88&line=00ff88&point=ffffff&area=true&hide_border=true)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vyshn4v&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vyshn4v&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+<div align="center">
+
+**`"I build things that scale, ship fast, and stay reliable."`**
+
+![Profile Views](https://komarev.com/ghpvc/?username=vyshn4v&color=00ff88&style=flat-square&label=Profile+Views)
+
+</div>
